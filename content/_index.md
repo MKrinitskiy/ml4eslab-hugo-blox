@@ -8,14 +8,12 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Machine Learning for Earth Sciences laboratory
       image:
-        filename: welcome.jpg
+        filename: ML4ESlab-logo.jpeg
       text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        <br>       
+        Founded in October 2023, the Machine Learning for Earth Sciences Laboratory (ML4ES Lab) is a hub for cutting-edge research at the intersection of AI and geoscience. We develop and apply machine learning methods to better understand, model, and predict complex processes in the ocean, atmosphere, and climate systems. From foundational research to applied solutions, our work drives innovation in environmental science through data.
   
   - block: collection
     content:
@@ -58,7 +56,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest papers
       text: ""
       count: 5
       filters:
