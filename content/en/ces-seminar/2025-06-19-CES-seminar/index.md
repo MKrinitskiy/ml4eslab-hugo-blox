@@ -1,16 +1,16 @@
 ---
 title: "Alexey Zimin: how tidal dynamics impact pollock early development"
 
-event: Seminar No 33
+event: Seminar No33 of the Center for Earth Sciences (MIPT)
 # event_url: https://example.org
 
 location: Center for Earth Sciences
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 4k1 Nauchniy lane
+  city: Dolgoprudniy
+  region: Moscow region
+  postcode: '141701'
+  country: Russia
 
 summary: Hydrophysical Processes Induced by Tides in the Waters of the Pacific Ocean Adjacent to the Kamchatka Peninsula and the Northern Kuril Islands, and Their Influence on the Early Stages of Pollock Development
 abstract: 'In this talk, the discussion focuses on hydrophysical processes in the Pacific Ocean area adjacent to the Kamchatka Peninsula and the northern Kuril Islands, and their impact on the early development stages of pollock. The study emphasizes tidal dynamics as a trigger for short-period internal waves and small eddies, which can significantly affect vertical water displacements and conditions for pollock roe. The presentation includes results from modeling and field experiments, assessing the influence of abiotic factors on the survival and development of pollock juveniles. It is noted that internal waves and submesoscale eddies influence the distribution of the food base and, consequently, the fish productivity of the region. Additionally, the talk discusses prospects for further research and the creation of more accurate tidal process models to improve predictions of fish stock conditions.'
