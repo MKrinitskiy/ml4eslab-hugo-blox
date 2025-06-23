@@ -14,6 +14,8 @@ doi: "10.3389/fmars.2024.1358882"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-03-25T00:00:00Z"
 
+share: false
+
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.

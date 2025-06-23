@@ -14,13 +14,15 @@ doi: "10.3389/fmars.2024.1358882"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-03-25T00:00:00Z"
 
+share: false
+
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Frontiers in Marine Science, 11-2024"
+publication: "Frontiers in Marine Science, 11-2024"
 publication_short: ""
 
 abstract: Salinity is among the key climate characteristics of the World Ocean. During the last 15 years, sea surface salinity (SSS) is measured using satellite passive microwave sensors. Standard retrieving SSS algorithms from remote sensing data were developed and verified for the most typical temperature and salinity values of the World Ocean. However, they have far lower accuracy for the Arctic Ocean, especially its shelf areas, which are influenced by large river runoff and have low typical temperature and salinity values. In this study, an improved algorithm has been developed to retrieve SSS in the Arctic Ocean during ice-free season, based on Soil Moisture Active Passive (SMAP) mission data, and using machine learning approaches. Extensive database of in situ salinity measurements in the Russian Arctic seas collected during multiple field surveys is applied to train and validate the machine learning models. The error in SSS retrieval of the developed algorithm compared to the standard algorithm reduced from 3.15 to 2.15 psu, and the correlation with in situ data increased from 0.82 to 0.90. The obtained daily SSS fields are important to improve accurate assessment of spatial and temporal variability of large river plumes in the Arctic Ocean.
