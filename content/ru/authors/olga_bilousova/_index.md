@@ -6,6 +6,8 @@ title: Ольга Белоусова
 first_name: Ольга
 last_name: Белоусова
 
+sorting_order: 4
+
 # Username (this should match the folder name)
 authors:
   - olga_bilousova

@@ -6,6 +6,8 @@ title: Михаил Борисов
 first_name: Михаил
 last_name: Борисов
 
+sorting_order: 3
+
 # Username (this should match the folder name)
 authors:
   - mikhail_borisov

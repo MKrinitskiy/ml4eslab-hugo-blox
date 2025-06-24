@@ -6,6 +6,8 @@ title: Виктор Голиков
 first_name: Виктор
 last_name: Голиков
 
+sorting_order: 2
+
 # Username (this should match the folder name)
 authors:
   - viktor_golikov

@@ -6,6 +6,8 @@ title: Ilya Gerasimov
 first_name: Ilya
 last_name: Gerasimov
 
+sorting_order: 6
+
 # Username (this should match the folder name)
 authors:
   - ilya_gerasimov

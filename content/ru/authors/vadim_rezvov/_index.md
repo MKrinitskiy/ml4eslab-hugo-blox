@@ -6,6 +6,8 @@ title: Вадим Резвов
 first_name: Вадим
 last_name: Резвов
 
+sorting_order: 1
+
 # Username (this should match the folder name)
 authors:
   - vadim_rezvov

@@ -6,6 +6,8 @@ title: Станислава Вострикова
 first_name: Станислава
 last_name: Вострикова
 
+sorting_order: 5
+
 # Username (this should match the folder name)
 authors:
   - stanislava_vostrikova
